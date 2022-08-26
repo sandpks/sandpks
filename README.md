@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @sandpks
+- Hey, It's @sandpks
 
 <!---
 sandpks/sandpks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
